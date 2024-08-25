@@ -1,0 +1,1 @@
+package AccessSpecifier_OutsidePackage2;
